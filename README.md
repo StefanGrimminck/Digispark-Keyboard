@@ -1,2 +1,2 @@
 # Digispark-Keyboard
-This repository contains code for the Digispark USB development board
+See the wiki for payloads!
